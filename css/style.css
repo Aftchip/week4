@@ -1,0 +1,108 @@
+
+h1 {
+    color: white;
+    font-size: 50px;
+    font-family: 'Orbitron', sans-serif;
+    font-weight: 500;
+    text-shadow: 2px 2px 20px #000;
+}
+
+#nav {
+    list-style: none;
+    float: right;
+    margin-top:30px
+}
+.nav-link {
+    display: inline-block;
+    margin: 0 10px;
+    border: solid #BFAB74;
+    background-color: black;
+    color: white;
+    padding: 5px 7px
+}
+.nav-link:hover {
+    background-color: rgb(191, 171, 116) !important;
+}
+#logo {
+    font-size: 80px;
+    margin: 0;
+    display: inline-block;
+}
+
+/*ABOUT PAGE*/
+.content-1 {
+    margin: 10px;
+}
+
+.left{ 
+    display: inline-block;
+}
+
+.left .content-image {
+    height: 150px
+}
+
+.right p {
+    margin: 0 10px;
+}
+
+.right {
+    display: inline-block;
+    width: 70%;
+}
+.content-2 {
+    margin: 10px;
+}
+.content-3 div {
+    display: inline-block;
+    width: 30%;
+    margin: 10px;
+}
+/*CONTACT PAGE*/
+.map {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+#wufoo {
+    margin-top: 15px;
+}
+/*BUTTON*/
+
+#my-bttn {
+    background-color: gold;
+    box-shadow: 5px 5px 15px #888888;
+    margin-top: 10px;
+}
+    
+}
+/*FOOTER*/
+
+.footer {
+    box-shadow: 0px 0px 10px 0px #ccc;
+}
+.footer-text {
+    display: inline-block;
+}
+
+i {
+    padding-right: 10px;
+    float: right;
+    margin-top: 10px
+}
+.fa-facebook-official {
+    font-size:20px;
+    color: #3c5a98;
+}
+.fa-twitch {
+    font-size: 20px;
+    color: #533886; 
+   
+}
+.fa-twitter {
+    font-size: 20px;
+    color: #34cbff;
+}
+.header {
+  background-color: #000;
+}
